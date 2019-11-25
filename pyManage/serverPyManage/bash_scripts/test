@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo a > "$PWD/bash_scripts/a"
